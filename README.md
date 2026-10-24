@@ -61,9 +61,13 @@ Projeto voltado à geração e organização de escalas de trabalho, aplicando r
 
 ## 🐍 Contribuições
 
+### Grafo de Contribuições (Snake Game)
+<!-- A animação da cobrinha será gerada automaticamente via GitHub Action se configurada -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Grisz-hub/Grisz-hub/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sabrinassis/sabrinassis/output/github-snake-dark.svg" alt="Jogo da Cobrinha de Contribuições" />
 </p>
+
+
 
 ## 💡 Filosofia
 
@@ -73,9 +77,4 @@ Projeto voltado à geração e organização de escalas de trabalho, aplicando r
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
-</p>
-### Grafo de Contribuições (Snake Game)
-<!-- A animação da cobrinha será gerada automaticamente via GitHub Action se configurada -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabrinassis/sabrinassis/output/github-snake-dark.svg" alt="Jogo da Cobrinha de Contribuições" />
 </p>
