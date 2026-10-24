@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=GRISZ&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" alt="Banner Grisz"/>
 </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+PHP;Construindo+ideias+em+c%C3%B3digo"
+    alt="Texto animado de apresentação"
+  />
+</p>
 
 <p align="center">
   <a href="https://github.com/Grisz-hub">
