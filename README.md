@@ -1,150 +1,133 @@
 
-<!-- GRISZ OS | DEVELOPER EDITION -->
+# Olá! Eu sou o Grisz 👋
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=GRISZ&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" alt="Banner Grisz"/>
+</p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+PHP;Construindo+ideias+em+c%C3%B3digo"
+    alt="Texto animado de apresentação"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:312E81,100:7C3AED&height=180&section=header&text=GRISZ%20OS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20EDITION&descSize=15&descAlignY=60" width="100%" alt="Grisz OS"/>
+<p align="center">
+  <a href="https://github.com/Grisz-hub">
+    <img src="https://img.shields.io/badge/GitHub-Grisz--hub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-7C3AED?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20e%20automa%C3%A7%C3%A3o-2563EB?style=for-the-badge" alt="Foco"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Initializing+Grisz+OS...;Developer+in+progress;Loading+skills...;Building+projects+and+leveling+up!" alt="Terminal de inicialização animado"/>
 
-</div>
+<h2 align="center">🚀 Projetos em destaque</h2>
 
----
-
-## 🖥️ SYSTEM TERMINAL
+<p align="center">
+  Projetos que transformam ideias em soluções reais.
+</p>
 
 <table>
-<tr>
-<td>
-
-```text
-USER: Grisz-hub
-SYSTEM: GRISZ OS
-EDITION: Developer
-STATUS: Learning / Building
-```
-
-</td>
-<td>
-
-```text
-> whoami
-Developer in progress
-
-> mission
-Build. Learn. Improve.
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 CineIndex</h3>
+      <p>
+        Plataforma web dedicada a filmes e séries,
+        com catálogo, avaliações, favoritos e watchlist.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p>
+        <a href="https://github.com/Grisz-hub?tab=repositories">
+          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Automação de Escalas</h3>
+      <p>
+        Aplicação para organizar escalas mensais,
+        horários de trabalho, folgas e revezamentos.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+        <img src="https://img.shields.io/badge/Algoritmos-2563EB?style=flat-square" alt="Algoritmos">
+        <img src="https://img.shields.io/badge/Automação-7C3AED?style=flat-square" alt="Automação">
+      </p>
+      <p>
+        <a href="https://github.com/Grisz-hub?tab=repositories">
+          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios">
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-## 👨‍💻 PLAYER PROFILE
 
-> Explorando o universo da programação, desenvolvendo projetos e transformando ideias em código.
+## 👨‍💻 Sobre mim
 
-- 🎯 **Classe:** Developer
-- 🧠 **Especialidade em evolução:** Desenvolvimento web e lógica
-- ⚡ **Missão:** Criar projetos úteis e aprimorar habilidades
-- 🌌 **Próximo objetivo:** Construir soluções cada vez melhores
+Sou um entusiasta da tecnologia e desenvolvedor em formação, interessado em criar projetos que unam lógica, criatividade e soluções práticas.
 
-## 🧰 SKILL INVENTORY
+Atualmente, exploro o desenvolvimento web, a programação e a automação de processos, sempre buscando aprimorar minhas habilidades por meio de projetos práticos.
 
-<div align="center">
+- 💻 Estudando e desenvolvendo com diferentes linguagens.
+- 🛠️ Criando projetos web e soluções de automação.
+- 📚 Aprendendo continuamente e evoluindo a cada projeto.
+- 🎯 Objetivo: transformar ideias em aplicações funcionais.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php&theme=dark" alt="HTML, CSS, JavaScript, Python e PHP"/>
+## ⚙️ Tecnologias
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php&theme=dark" alt="HTML, CSS, JavaScript, Python e PHP"/>
+</p>
 
-## 🎮 PLAYER LEVEL
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PLAYER-Code%20Explorer-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Classe Code Explorer"/>
-<img src="https://img.shields.io/badge/LEVEL-01-7C3AED?style=for-the-badge" alt="Nível ilustrativo"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-2563EB?style=for-the-badge" alt="Em aprendizado"/>
-
-</div>
-
-> XP, nível e classe são elementos visuais de gamificação, não métricas calculadas automaticamente.
-
-## 🏆 ACHIEVEMENT UNLOCKED
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%3C%2F%3E-Web%20Explorer-7C3AED?style=for-the-badge" alt="Web Explorer"/>
-<img src="https://img.shields.io/badge/%E2%9A%99-Logic%20Builder-2563EB?style=for-the-badge" alt="Logic Builder"/>
-<img src="https://img.shields.io/badge/%E2%9C%A6-Always%20Learning-9333EA?style=for-the-badge" alt="Always Learning"/>
-
-</div>
-
-## 📂 PROJECT EXPLORER
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Projetos em destaque
 
 ### 🎬 CineIndex
+Projeto de plataforma de filmes e séries, com foco em catálogo, avaliações, favoritos e organização de conteúdo.
 
-Plataforma web de filmes e séries com catálogo, avaliações, favoritos e watchlist.
+### 📅 Automação de escalas
+Projeto voltado à geração e organização de escalas de trabalho, aplicando regras de horários, folgas e revezamentos.
 
-**Tech stack**
+> Confira os repositórios fixados no meu perfil para acompanhar meus projetos e sua evolução.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+## 📊 GitHub Analytics
 
-[⌁ Explorar repositórios](https://github.com/Grisz-hub?tab=repositories)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Grisz-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grisz-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Grisz-hub&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
+</p>
 
-### 📅 Automação de Escalas
+## 🐍 Contribuições
 
-Projeto para organizar escalas de trabalho, horários, folgas e regras de revezamento.
+### Grafo de Contribuições (Snake Game)
+<!-- A animação da cobrinha será gerada automaticamente via GitHub Action se configurada -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabrinassis/sabrinassis/output/github-snake-dark.svg" alt="Jogo da Cobrinha de Contribuições" />
+</p>
 
-**Tech stack**
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=flat-square" alt="Algoritmos"/>
 
-[⌁ Explorar repositórios](https://github.com/Grisz-hub?tab=repositories)
+## 💡 Filosofia
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>"A melhor maneira de aprender a programar é construindo algo que ainda não existe."</i>
+</p>
 
-## 📊 SYSTEM ANALYTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Grisz-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grisz-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens dos repositórios"/>
-
-<img src="https://streak-stats.demolab.com?user=Grisz-hub&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
-
-</div>
-
-## 🐍 CONTRIBUTION SYSTEM
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Grisz-hub/Grisz-hub/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada das contribuições" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-> SYSTEM MESSAGE: Keep learning.
-> NEXT ACTION: Build something awesome.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:080B14&height=100&section=footer" width="100%" alt="Rodapé Grisz OS"/>
-
-**GRISZ OS** · Built with curiosity and code.
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
+</p>
