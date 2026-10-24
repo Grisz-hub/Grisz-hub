@@ -19,6 +19,53 @@
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20e%20automa%C3%A7%C3%A3o-2563EB?style=for-the-badge" alt="Foco"/>
 </p>
 
+
+<h2 align="center">🚀 Projetos em destaque</h2>
+
+<p align="center">
+  Projetos que transformam ideias em soluções reais.
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 CineIndex</h3>
+      <p>
+        Plataforma web dedicada a filmes e séries,
+        com catálogo, avaliações, favoritos e watchlist.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p>
+        <a href="https://github.com/Grisz-hub?tab=repositories">
+          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Automação de Escalas</h3>
+      <p>
+        Aplicação para organizar escalas mensais,
+        horários de trabalho, folgas e revezamentos.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+        <img src="https://img.shields.io/badge/Algoritmos-2563EB?style=flat-square" alt="Algoritmos">
+        <img src="https://img.shields.io/badge/Automação-7C3AED?style=flat-square" alt="Automação">
+      </p>
+      <p>
+        <a href="https://github.com/Grisz-hub?tab=repositories">
+          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## 👨‍💻 Sobre mim
 
 Sou um entusiasta da tecnologia e desenvolvedor em formação, interessado em criar projetos que unam lógica, criatividade e soluções práticas.
