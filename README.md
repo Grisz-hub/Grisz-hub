@@ -101,3 +101,4 @@
 ⭐ Explore meus repositórios e acompanhe minha evolução.
 
 </div>
+![Snake animation](https://github.com/Grisz-hub/Grisz-hub/blob/output/github-contribution-grid-stake.svg)
