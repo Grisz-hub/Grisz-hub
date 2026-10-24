@@ -1,106 +1,79 @@
 
-<div align="center">
+# Olá! Eu sou o Grisz 👋
 
-# 🎮 GRISZ | DEV PROFILE
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=GRISZ&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" alt="Banner Grisz"/>
+</p>
 
-### 💻 Desenvolvedor em evolução | Explorador de tecnologia
+<p align="center">
+  <a href="https://github.com/Grisz-hub">
+    <img src="https://img.shields.io/badge/GitHub-Grisz--hub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-7C3AED?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20e%20automa%C3%A7%C3%A3o-2563EB?style=for-the-badge" alt="Foco"/>
+</p>
 
-`[ CODANDO O PRÓXIMO LEVEL... ]`
+## 👨‍💻 Sobre mim
 
-![Status](https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO-8b5cf6?style=for-the-badge)
-![Classe](https://img.shields.io/badge/CLASSE-DEV-06b6d4?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-EM_CONSTRUÇÃO-f59e0b?style=for-the-badge)
+Sou um entusiasta da tecnologia e desenvolvedor em formação, interessado em criar projetos que unam lógica, criatividade e soluções práticas.
 
-</div>
+Atualmente, exploro o desenvolvimento web, a programação e a automação de processos, sempre buscando aprimorar minhas habilidades por meio de projetos práticos.
 
----
+- 💻 Estudando e desenvolvendo com diferentes linguagens.
+- 🛠️ Criando projetos web e soluções de automação.
+- 📚 Aprendendo continuamente e evoluindo a cada projeto.
+- 🎯 Objetivo: transformar ideias em aplicações funcionais.
 
-## 🧑‍🚀 PLAYER PROFILE
+## ⚙️ Tecnologias
 
-> Todo grande desenvolvedor começa no nível 1.
-> O objetivo é continuar evoluindo, um projeto de cada vez.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php&theme=dark" alt="HTML, CSS, JavaScript, Python e PHP"/>
+</p>
 
-- 🎯 **Objetivo:** dominar novas tecnologias e desenvolver projetos reais.
-- 🧠 **Especialidade:** aprender, experimentar e resolver problemas.
-- ⚡ **Habilidade passiva:** transformar erros em aprendizado.
-- 🚀 **Próxima evolução:** construir aplicações cada vez melhores.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
----
+## 🚀 Projetos em destaque
 
-## 🆙 LEVEL SYSTEM
+### 🎬 CineIndex
+Projeto de plataforma de filmes e séries, com foco em catálogo, avaliações, favoritos e organização de conteúdo.
 
-| Atributo | Status |
-|---|---|
-| 🟢 Curiosidade | MAX |
-| 💻 Programação | EM EVOLUÇÃO |
-| 🧩 Resolução de problemas | EM TREINAMENTO |
-| 🚀 Desenvolvimento de projetos | QUEST ATIVA |
+### 📅 Automação de escalas
+Projeto voltado à geração e organização de escalas de trabalho, aplicando regras de horários, folgas e revezamentos.
 
-**XP atual:** acompanhe sua evolução a cada projeto concluído!
+> Confira os repositórios fixados no meu perfil para acompanhar meus projetos e sua evolução.
 
-`[████░░░░░░]` Próximo nível desbloqueável.
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Grisz-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grisz-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas"/>
+</p>
 
-## 🛠️ SKILL TREE
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Grisz-hub&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
+</p>
 
-### 🌐 Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🐍 Contribuições
 
-### ⚙️ Programação e dados
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Grisz-hub/Grisz-hub/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" width="100%"/>
+</p>
 
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
----
+## 💡 Filosofia
 
-## 🏆 ACHIEVEMENT UNLOCKED
+<p align="center">
+  <i>"A melhor maneira de aprender a programar é construindo algo que ainda não existe."</i>
+</p>
 
-| Conquista | Objetivo |
-|---|---|
-| 🐣 First Commit | Fazer o primeiro commit |
-| 🔥 Code Warrior | Manter uma rotina de programação |
-| 🧩 Bug Hunter | Resolver um bug difícil |
-| 🚀 Project Creator | Finalizar um projeto próprio |
-| 🌟 Open Source | Contribuir com outro projeto |
-
-*Conquistas para desbloquear conforme sua jornada.*
-
----
-
-## 📊 PLAYER STATISTICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💬 DEVELOPER QUOTE
-
-> "A melhor maneira de prever o futuro é construí-lo."
-
-<div align="center">
-
-### 🎯 GAME STATUS: IN PROGRESS
-
-**Obrigado por visitar meu perfil!**
-
-⭐ Explore meus repositórios e acompanhe minha evolução.
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
+</p>
 ### Grafo de Contribuições (Snake Game)
 <!-- A animação da cobrinha será gerada automaticamente via GitHub Action se configurada -->
 <p align="center">
