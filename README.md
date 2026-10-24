@@ -101,4 +101,8 @@
 ⭐ Explore meus repositórios e acompanhe minha evolução.
 
 </div>
-![Snake animation](https://github.com/Grisz-hub/Grisz-hub/blob/output/github-contribution-grid-stake.svg)
+### Grafo de Contribuições (Snake Game)
+<!-- A animação da cobrinha será gerada automaticamente via GitHub Action se configurada -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabrinassis/sabrinassis/output/github-snake-dark.svg" alt="Jogo da Cobrinha de Contribuições" />
+</p>
