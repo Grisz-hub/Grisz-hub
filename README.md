@@ -1,5 +1,5 @@
 
-# Olá! Eu sou o Grisz 👋
+# Olá! Eu sou o Grisz.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=GRISZ&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" alt="Banner Grisz"/>
